@@ -31,7 +31,7 @@ A project for building a home VPN server on an old Windows laptop to bypass webs
 
 ## 📁 Contents
 
-- `no_sleep_forever.bat` – disables sleep, hibernation, display timeout
+- `no_sleep_forever` – disables sleep, hibernation, display timeout
 - `outline-setup.md` – full setup instructions for Outline VPN
 - `requirements.md` – Everything you need to get the project up and running
 
