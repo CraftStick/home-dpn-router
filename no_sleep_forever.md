@@ -1,4 +1,4 @@
-🔹 Copy and paste this code into the terminal
+Copy and paste this code into the terminal
 
 powercfg -change -standby-timeout-ac 0
 
