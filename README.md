@@ -20,13 +20,16 @@ A project for building a home VPN server on an old Windows laptop to bypass webs
 1. Install **any VPN client** *(Outline, Clash, v2rayN, Amnezia, etc.)*.
 2. Connect your PC to the main router (Keenetic) via Ethernet.
 3. Share the VPN connection through the second Ethernet port to the Huawei router.
-4. Run `no_sleep_forever.bat` as administrator.
+4. Apply the powercfg commands from `no_sleep_forever.md` to prevent sleep.
 5. **Boom!** 🚀 Huawei now broadcasts foreign internet.
 
 ---
 
 ## 🖼 Diagram
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35a96786-236e-45b7-924e-6d65679be3fa" alt="DPN Router Diagram" width="800">
+</p>
 
 ---
 
@@ -40,7 +43,7 @@ A project for building a home VPN server on an old Windows laptop to bypass webs
 
 ## 📁 Contents
 
-* `no_sleep_forever.bat` — Disables sleep, hibernation, and display timeout.
+* `no_sleep_forever.md` — Commands to disable sleep, hibernation, and display timeout.
 * `outline-setup.md` — Full setup instructions specifically for Outline VPN (as a reference).
 * `requirements.md` — Everything you need to get the project up and running.
 
@@ -48,5 +51,4 @@ A project for building a home VPN server on an old Windows laptop to bypass webs
 
 ## 🧠 Author
 
-**CraftStick**  
-*Built with soul and logic* ❤️
+**CraftStick** *Built with soul and logic* ❤️
