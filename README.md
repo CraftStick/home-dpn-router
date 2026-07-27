@@ -47,8 +47,12 @@ A project for building a home VPN server on an old Windows laptop to bypass webs
 * `outline-setup.md` — Full setup instructions specifically for Outline VPN (as a reference).
 * `requirements.md` — Everything you need to get the project up and running.
 
+<div align="center">
+
 ---
 
-## 🧠 Author
+Если было полезно — поставь ⭐, это очень помогает!
 
-**CraftStick** *Built with soul and logic* ❤️
+If you found this useful, consider leaving a ⭐ — it helps a lot!
+
+</div>
